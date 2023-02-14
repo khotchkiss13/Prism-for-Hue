@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.prism_for_hue">
    <application
-        android:label="prism_for_hue"
+        android:label="Prism"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
